@@ -1,4 +1,4 @@
-# YoutubeSimplifiedRequest Documentation
+# Utube Plugin Documentation
 
 ## Overview
 `YoutubeSimplifiedRequest` is a Unity script that simplifies YouTube video playback directly in Unity, supporting multiple video qualities, formats, and features like 360° and 3D videos.
